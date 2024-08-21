@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук",
+        "price": 69.000,
+        "imgUrl": "/imgs/ноутбук.webp"
+    },
+    {
+        "id": 2,
+        "name": "Айфон",
+        "price": 54.999,
+        "imgUrl": "/imgs/айфон.webp"
+    },
+    {
+        "id": 3,
+        "name": "Колонки",
+        "price": 9.499,
+        "imgUrl": "/imgs/колонки.webp"
+    },
+    {
+        "id": 4,
+        "name": "Монитор",
+        "price": 14.999,
+        "imgUrl": "/imgs/монитор.webp"
+    },
+    {
+        "id": 5,
+        "name": "Мышка",
+        "price": 8.999,
+        "imgUrl": "/imgs/мышка.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Клавиатура",
+        "price": 9.990,
+        "imgUrl": "/imgs/клава.webp"
+    },
+    {
+        "id": 7,
+        "name": "Телевизор",
+        "price": 34.999,
+        "imgUrl": "/imgs/телик.webp"
+    }
+]
