@@ -1,6 +1,6 @@
 import { Col, Row } from 'react-bootstrap'
 import storeItems from '../data/items.json'
-import { StoreItem } from '../components/StoreItems'
+import StoreItem from '../components/StoreItems'
 
 export function Store() {
     return(
